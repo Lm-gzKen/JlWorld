@@ -1,5 +1,5 @@
 # JlWorld
-成品下载： [www.jlworld.net](https://www.jlworld.net/jlwWEB)
+成品下载： [www.jlworld.net](https://www.jlworld.net/QQBOT)
 # JlW-BoT
 
 > 零 npm 依赖的 Node.js QQ 官方机器人框架：多账户、Web 面板、插件市场、SQLite、在线更新。
