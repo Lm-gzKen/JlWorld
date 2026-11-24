@@ -72,7 +72,7 @@ flowchart LR
 
 ### 方式一：直接下载成品包
 
-1. 到 [发布](https://github.com/Lm-gzKen/JlWorld/releases) 下载 `JlW-BoT [v1.6.4].zip`
+1. 到 [聚龙世界官网](https://www.jlworld.net/QQBOT) 下载 `JlW-BoT [v1.6.4].zip`
 2. 解压，双击 `启动机器人.cmd`
 3. 浏览器打开 <http://127.0.0.1:8686>
 4. 用聚龙世界账户登录，在「账户」里填 QQ 机器人 AppID / AppSecret
